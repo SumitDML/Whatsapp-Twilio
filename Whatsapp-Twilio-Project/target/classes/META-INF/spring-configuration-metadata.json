@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "com.digimantra.twilio.whatsapp.project.WhatsappTwilioProject.config.TwilioProperties",
+      "sourceType": "com.digimantra.twilio.whatsapp.project.WhatsappTwilioProject.config.TwilioProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "com.digimantra.twilio.whatsapp.project.WhatsappTwilioProject.config.TwilioProperties"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "com.digimantra.twilio.whatsapp.project.WhatsappTwilioProject.config.TwilioProperties"
+    },
+    {
+      "name": "twilio.from-number",
+      "type": "java.lang.String",
+      "sourceType": "com.digimantra.twilio.whatsapp.project.WhatsappTwilioProject.config.TwilioProperties"
+    }
+  ],
+  "hints": []
+}
